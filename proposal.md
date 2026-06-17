@@ -12,7 +12,7 @@ Blockfrost was founded in 2020 by Five Binaries and joined IOG in 2024 with the 
 
 ## Current Usage Metrics
 
-According to the annual [*State of the Cardano Developer Ecosystem*](https://cardano-foundation.github.io/state-of-the-developer-ecosystem/2025) survey hosted by the Cardano Foundation, Blockfrost is the **number-one hosted platform** developers use in their projects, and its adoption has grown every year:
+According to the annual [*State of the Cardano Developer Ecosystem*](https://cardano-foundation.github.io/state-of-the-developer-ecosystem) survey hosted by the Cardano Foundation, Blockfrost is the **number-one hosted platform** developers use in their projects, and its adoption has grown every year:
 
 | Year | Adoption |
 |------|----------|
