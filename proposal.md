@@ -84,7 +84,7 @@ Neither model is novel: similar structures have proven successful in other ecosy
 | Q4 2026 | **Milestone 2: Board election** | Board election held via on-chain voting under publicly published rules; results verifiable on-chain and the newly elected board formally assumes its mandate from the preliminary board. |
 | Q1 2027 | **Milestone 3: Transition of services** | All public API traffic (mainnet, preview, preprod) served by the new stack; all Blockfrost intellectual property — source code, trademarks, domain names, and associated assets — legally transferred to the governing entity; service performance maintained at current levels throughout the cutover. |
 | Q2–Q3 2027 | **Milestone 4: Sustainability consultation** | The newly elected board opens a public discussion on the long-term sustainability model, publishes a proposal (including the vendor-backed model outlined in this document) for community feedback, and documents the outcomes and chosen direction. |
-| 2027 | **Operational milestones 5–12: Sustained operations** | Public API operated at a minimum 99% monthly uptime SLA, measured and verifiable on the public dashboard; quarterly reports published covering technical metrics and budget summary. Each monthly milestone is independently verifiable against the published dashboard data. |
+| 2027 | **Operational milestones 5–12: Sustained operations** | Public API operates at a minimum 99% monthly uptime SLA, measured and verifiable on the public dashboard; quarterly reports published covering technical metrics and budget summary. Each monthly milestone is independently verifiable against the published dashboard data. |
 
 ---
 
